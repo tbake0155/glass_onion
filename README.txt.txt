@@ -44,12 +44,6 @@ is about 16%.
 
 	more crack odds = 0.40*0.8^4 = 0.16384
 
-The odds numbers assume that you increase or decrease by at least one, and then that you never hit
-do the opposite during that time step.  So the odds are not exact but are only the representation of
-that one particular type of outcome.  However, they are reprsentative of the statistical odds of
-increase and decrease and you can see that system is 800% more likely to grow than to terminate 
-based on these odds.  I believe these odds are actually generous to the chances of termination
-compared to the real odds.
 
 
 In a simulation where outcomes tend to represent the statistical odds, this simulation will 
