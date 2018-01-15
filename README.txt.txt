@@ -8,7 +8,7 @@ README
 *****************************************************************************************************
 
 There seems to be a bug on the school windows server that causes the math.h library to be unable to 
-compile using codeblocks while compiling a release executable.  The program compiles fine with dedub
+compile using codeblocks while compiling a release executable.  The program compiles fine with dedug
 executables.  This is very strange to me.  It throws an error about "_hypot", where apparently there
 is some compatibility issue.  I have read you can modify math.h so that "_hypot" becomes "hypot" to
 solve the problem, but if you compile using the debug selection then you shouldn't have any problems.
