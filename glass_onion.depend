@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1481412006 source:c:\users\tbaker\desktop\cs_361\finals\problem_1\glass_onion\src\crack.cpp
+	"crack.h"
+
+1481402713 c:\users\tbaker\desktop\cs_361\finals\problem_1\glass_onion\include\crack.h
+	"segment.h"
+	<list>
+	<random>
+	<iostream>
+
+1481402380 c:\users\tbaker\desktop\cs_361\finals\problem_1\glass_onion\include\segment.h
+	"coordinates.h"
+
+1481411697 source:c:\users\tbaker\desktop\cs_361\finals\problem_1\glass_onion\src\main.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	<random>
+	<ctime>
+	<string>
+	<list>
+	"crack.h"
+
+1481402766 source:c:\users\tbaker\desktop\cs_361\finals\problem_1\glass_onion\src\segment.cpp
+	"segment.h"
+
+1481402784 source:c:\users\tbaker\desktop\cs_361\finals\problem_1\glass_onion\src\coordinates.cpp
+	"coordinates.h"
+
+1481392283 c:\users\tbaker\desktop\cs_361\finals\problem_1\glass_onion\include\coordinates.h
+
